@@ -5,7 +5,7 @@ namespace Lab1_ExceptionHandlingAndDebugging
     class Program
     {
         static void Main(string[] args)
-        {
+        { //this lab involves a lot of exception handling
             try
             {
 
