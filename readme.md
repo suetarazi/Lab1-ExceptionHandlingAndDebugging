@@ -8,7 +8,7 @@ This is a C# console application that is a math game for the user, but utilizes 
 Getting Started
 Clone this repository to your local machine.
 
-$ git clone [repo clone url here]
+$ git clone https://github.com/suetarazi/Lab1-ExceptionHandlingAndDebugging.git
 To run the program from Visual Studio:
 Select File -> Open -> Project/Solution
 
@@ -22,18 +22,15 @@ Visuals
 [Add screenshots of your application in action]
 
 Application Start
-Image 1
+[Image 1](https://i.imgur.com/c8D4Hef.png)
 
 Using the Application
-Image 1
+[Image 1](https://i.imgur.com/wWxAhGJ.png) 
 
 Application End
-Image 1
+[Image 1](https://i.imgur.com/eW0z7Dv.png)
 
 Change Log
-[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]
-1.3: Added summary comments to the methods - 8 Nov 2010
-1.2: Changed variable names to follow proper convention - 6 Nov 2010
-1.1: Added a Try/Catch/Finally for Question 2 - 5 Nov 2010
+N/A
 
 For more information on Markdown: https://www.markdownguide.org/cheat-sheet
